@@ -2,8 +2,8 @@ import unittest
 from unittest.mock import MagicMock
 from io import StringIO
 import sys
-import tkinter as tk  # Replace your_module_name with the actual name of your module
-from webFilter import WebFiltering
+import tkinter as tk  
+from webFilter import WebFiltering # Replace your_module_name with the actual name of your module for a reminder
 
 
 class TestWebFiltering(unittest.TestCase):
